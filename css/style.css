@@ -15,14 +15,20 @@ h2 {
     margin-top: 100px;
 }
 
-button {
+#enter {
+  margin-top: 400px;
+  margin-top: 400px;
+
+}
+
+#button_1 {
     background-color: transparent;
     color: white;
     font-family: 'Dancing Script', cursive;
     font-size: 25px;
     font-weight: bolder;
-    border-color: white;
     margin-top: 400px;
+
 }
 
 .fa-facebook-square {
@@ -62,6 +68,10 @@ button {
     margin-top: 80px;
 }
 
+.l-link {
+  color: inherit;
+}
+
 h3 {
     font-family: 'Buda', cursive;
     color: #808080;
@@ -94,4 +104,28 @@ img:hover {
 #slides {
   margin-top: 80px;
   margin-right: 45px;
+}
+
+h1 {
+
+}
+
+h1:hover {
+  font-weight: bolder;
+  font-size: 80px;
+  color: #CD5C5C;
+  font-family: 'Great Vibes', cursive;
+}
+
+#sign-up {
+  margin-top: 80px;
+  margin-bottom: 40px;
+  padding-bottom: 40px;
+  background-color: #FFE4E1;
+  width: 100%;
+}
+
+html, body, #map {
+  height: 100%;
+  margin: 0;
 }
